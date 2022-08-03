@@ -314,7 +314,7 @@ color: #757575;
     to right, 
    rgba(47, 48, 58, 0.4), 
    rgba(47, 48, 58, 0.4)
-    ), url(/images/img00.jpg);
+    ), url(../images/img00.jpg);
 
 margin-left: auto;
 margin-right: auto;
@@ -390,7 +390,7 @@ margin-bottom: 0;
 border-radius: 4px;
 background-color: rgba(245, 244, 250, 1);
 
-  background-image: url("/images/antenna\ 1.svg"); 
+  background-image: url("../images/antenna\ 1.svg"); 
   background-size: 70px;
  
   /* background-size: contain; */
@@ -409,7 +409,7 @@ background-color: rgba(245, 244, 250, 1);
 border-radius: 4px;
 background-color: rgba(245, 244, 250, 1);
 
-  background-image: url("/images/clock\ 1.svg");
+  background-image: url("../images/clock\ 1.svg");
   background-size: 70px;
  
   /* background-size: contain; */
@@ -427,7 +427,7 @@ background-color: rgba(245, 244, 250, 1);
 border-radius: 4px;
 background-color: rgba(245, 244, 250, 1);
 
-  background-image: url("/images/diagram\ 1.svg"); 
+  background-image: url("../images/diagram\ 1.svg"); 
   background-size: 70px;
  
   /* background-size: contain; */
@@ -445,7 +445,7 @@ background-color: rgba(245, 244, 250, 1);
 border-radius: 4px;
 background-color: rgba(245, 244, 250, 1);
 
-  background-image: url("/images/astronaut\ 1.svg"); 
+  background-image: url("../images/astronaut\ 1.svg"); 
   background-size: 70px;
  
   /* background-size: contain; */
