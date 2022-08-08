@@ -78,7 +78,11 @@ margin-right: 93px;
   display:block;
   padding-top: 32px;
   padding-bottom: 32px;
+<<<<<<< HEAD
   color: rgba(33, 33, 33, 1);
+=======
+  color: rgba(33, 33, 33, 1);;
+>>>>>>> 2f81ecd30cf72f3ddc24d0524e78ef011d9f3a96
 }
 
 .roof-item .link:hover , .roof-item .link:focus {
@@ -594,7 +598,11 @@ text-align: center;
 .clients-list {
   display: flex;
 padding-left: 0;
+<<<<<<< HEAD
 /* justify-content: center; */
+=======
+justify-content: center;
+>>>>>>> 2f81ecd30cf72f3ddc24d0524e78ef011d9f3a96
 margin-top: 50px;
 margin-bottom: 0;
 }
@@ -672,6 +680,8 @@ address {
 }
 .basement-contacts {
   margin-top: 9px;
+  margin-top: 0;
+
 padding-left: 0;
 margin-bottom: 0;
 }
