@@ -679,8 +679,8 @@ address {
   margin-top: 20px;
 }
 .basement-contacts {
+
   margin-top: 9px;
-  margin-top: 0;
 
 padding-left: 0;
 margin-bottom: 0;
@@ -688,7 +688,7 @@ margin-bottom: 0;
 .basement-contacts-item {
   margin-top: 9px;
 }
-.basement-contacts:first-child{
+.basement-contacts-item:nth-child(1){
   margin-top: 0;
 }
 
